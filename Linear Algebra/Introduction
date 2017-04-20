@@ -1,0 +1,7 @@
+## Why Linear Algebra ?
+
+In the field of data science ,we come acroos 2-,3-,4- dimensional spatial quantities.To deal with these problems ,there is a need for us to learn Linear Algebra as we will perform matrix decompositions on these n-dimensional vectors.  
+In data science any statistical model with more than handful of parameters are represented as vectors or matrices.Linear Algebra helps in fitting these models,making predictions and so on.  
+
+In this tutorial we will start with basics of Linear Algebra.
+
